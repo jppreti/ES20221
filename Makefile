@@ -1,2 +1,2 @@
 final:
-  gcc main.c -o main
+	gcc main.c -o main
